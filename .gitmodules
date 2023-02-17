@@ -1,0 +1,6 @@
+[submodule "blogsnow"]
+	path = blogsnow
+	url = https://github.com/ipriyam26/blogsnow.git
+[submodule "strapi_backend"]
+	path = strapi_backend
+	url = https://github.com/ipriyam26/strapi_backend.git
